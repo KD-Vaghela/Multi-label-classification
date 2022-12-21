@@ -1,1 +1,6 @@
 # Multi-label-classification
+# Business Understanding
+All businesses must keep track of regulatory changes happening in their respective industry and must be compliant with such rules/regulations. To know what all regulations are important for our business; we need the regulations to be classified into different themes. If the regulations are not classified, one may have to go through all the laws, which would be very difficult to manage. If businesses cannot comply with the latest amendments, they might face very hefty fines and penalties.
+If businesses can identify (tag) the Rules and Regulations that are important, they can then easily identify the updates that are important and can even automate their assignment to the right people/areas. This will help in tracking all the regulatory amendments and managing the compliance policies would be easier.
+# Aim of the project
+In this project I created a model that can classify a text into multiple labels to which it belongs and on using this model businesses can identify the regulations and classify them accurately. I have used OnevsRestClassifier and LinearSVC algorithm to classify texts into multiple labels
